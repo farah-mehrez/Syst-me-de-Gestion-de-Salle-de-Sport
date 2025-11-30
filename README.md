@@ -1,1 +1,5 @@
-# Syst-me-de-Gestion-de-Salle-de-Sport
+# Firebase Studio
+
+This is a NextJS starter in Firebase Studio.
+
+To get started, take a look at src/app/page.tsx.
